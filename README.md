@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 <h2 align="center">Hi ,I'm Pacifique Twagirayesu, From Rwanda living in the Philippines,</h2>
-<h5 align="center">I enjoy working with Node, Django and React.
+<h5 align="center" width="30px">I enjoy working with Node, Django and React.
 I oversee the building of innovative systems architecture via NodeJS, Django , HTML5, CSS3/SASS, JavaScript/React, PostgreSQL, MongoDB.</h5>
 Skills:
 <ol>
@@ -16,8 +16,6 @@ Skills:
   <li>CSS</li>
   <li>HTML</li>
 </ol>
-NODE/DJANGO / REACT/ DOCKER / KUBERNETES/CSS/HTML
-
 
 
 ## Connect with me:
