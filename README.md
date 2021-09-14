@@ -10,5 +10,8 @@ Skills: NODE/DJANGO / REACT/ DOCKER / KUBERNETES/CSS/HTML
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pacifique-twagirayesu-19823918b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/pacifique1k)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCZGUfw6qTrweWdAMXTSENwQ)  
-
+  
+<a href = "https://www.linkedin.com/in/pacifique-twagirayesu-19823918b//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/pacifique1k"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/pacifique_tw/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/channel/UCZGUfw6qTrweWdAMXTSENwQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
