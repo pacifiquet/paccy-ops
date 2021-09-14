@@ -1,11 +1,12 @@
 ### Hi there 👋, my name is Pacifique
 #### I am Full Stack Developer
+<h6 align="center">I'm Pacifique Twagirayesu, From Rwanda living in the Philippines,</h6>
 <a href="#">
 <img width="100%"  src="https://images.unsplash.com/photo-1607705703571-c5a8695f18f6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" height="400px"/></a>
 
 
 ## 🙋‍♂️ About Me
-<h6 align="center">Hi ,I'm Pacifique Twagirayesu, From Rwanda living in the Philippines,</h6>
+<h6 align="center">I'm Pacifique Twagirayesu, From Rwanda living in the Philippines,</h6>
 <p align="left">I enjoy working with Node, Django and React</p>
 <p align="left">I oversee the building of innovative systems architecture</p>
 <p align="left">via NodeJS, Django , HTML5, CSS3/SASS, JavaScript/React, PostgreSQL, MongoDB.</p>
