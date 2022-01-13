@@ -13,7 +13,6 @@
 
 Skills:
 <ol>
-  <li>NODE</li>
   <li>DJANGO</li>
   <li>REACT</li>
   <li>DOCKER</li>
