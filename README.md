@@ -1,4 +1,4 @@
-![I am Full Stack Developer](https://cdn-images.zety.com/pages/how_to_write_web_developer_resume.jpg)
+![I am Django Developer](https://cdn-images.zety.com/pages/how_to_write_web_developer_resume.jpg)
 ### Hi there 👋, my name is Pacifique
 #### I am Full Stack Developer
 
