@@ -2,9 +2,9 @@
 ### Hello 👋, my name is Pacifique Twagirayesu
 
 ## 🙋‍♂️ About Me
-<h5>I am a Goal-oriented Software Developer who brings a strong commitment to
+<h4>I am a Goal-oriented Software Developer who brings a strong commitment to
 collaboration and solutions-oriented problem-solving.<br>My experience helped me develop expert
-knowledge of software development.<br> I am highly motivated to continue learning and improving my skills.</h5>
+knowledge of software development.<br> I am highly motivated to continue learning and improving my skills.</h4>
 
 - 📫 How to reach me **pacifiquetwagirayesu@gmail.com**
 
