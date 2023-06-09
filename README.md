@@ -3,8 +3,8 @@
 
 ## 🙋‍♂️ About Me
 <h5>I am a Goal-oriented Software Developer who brings a strong commitment to
-collaboration and solutions-oriented problem-solving.`<br>`My experience helped me develop expert
-knowledge of software development. I am highly motivated to continue learning and improving my skills.</h5>
+collaboration and solutions-oriented problem-solving.<br>My experience helped me develop expert
+knowledge of software development.<br> I am highly motivated to continue learning and improving my skills.</h5>
 
 - 📫 How to reach me **pacifiquetwagirayesu@gmail.com**
 
@@ -21,6 +21,7 @@ knowledge of software development. I am highly motivated to continue learning an
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;   
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres"  alt="Postgres" width="40" height="40"/>&nbsp; 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb"  alt="Mongodb" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" **alt="kubernetes" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" **alt="Terraform" width="40" height="40"/>
