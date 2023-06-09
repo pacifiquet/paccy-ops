@@ -1,9 +1,8 @@
 ![I am Django Developer](https://cdn-images.zety.com/pages/how_to_write_web_developer_resume.jpg)
 ### Hello 👋, my name is Pacifique Twagirayesu
-#### I am Software Developer
 
 ## 🙋‍♂️ About Me
-<h4>I am a Software Developer, Goal-oriented Software Developer who brings a strong commitment to
+<h5>I am a Software Developer, Goal-oriented Software Developer who brings a strong commitment to
 collaboration and solutions-oriented problem-solving. My experience helped me develop expert
 knowledge of software development. I am highly motivated to continue learning and improving my skills.</h4>
 
