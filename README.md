@@ -3,10 +3,9 @@
 #### I am Software Developer
 
 ## 🙋‍♂️ About Me
-<h6 align="center">I'm Pacifique Twagirayesu, From Rwanda living in the Philippines,</h6>
-<p>I am a Software Developer, Goal-oriented Software Developer who brings a strong commitment to
+<h4>I am a Software Developer, Goal-oriented Software Developer who brings a strong commitment to
 collaboration and solutions-oriented problem-solving. My experience helped me develop expert
-knowledge of software development. I am highly motivated to continue learning and improving my skills.</p>
+knowledge of software development. I am highly motivated to continue learning and improving my skills.</h4>
 
 - 📫 How to reach me **pacifiquetwagirayesu@gmail.com**
 
