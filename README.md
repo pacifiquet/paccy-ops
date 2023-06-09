@@ -4,9 +4,9 @@
 
 ## 🙋‍♂️ About Me
 <h6 align="center">I'm Pacifique Twagirayesu, From Rwanda living in the Philippines,</h6>
-<p align="left">I enjoy working with Django,Springboot and React</p>
-<p align="left">I oversee the building of innovative systems architecture</p>
-<p align="left">via Django , HTML5, CSS3/SASS, JavaScript/React, PostgreSQL, MongoDB.</p>
+<p>I am a Software Developer, Goal-oriented Software Developer who brings a strong commitment to
+collaboration and solutions-oriented problem-solving. My experience helped me develop expert
+knowledge of software development. I am highly motivated to continue learning and improving my skills.</p>
 
 - 📫 How to reach me **pacifiquetwagirayesu@gmail.com**
 
