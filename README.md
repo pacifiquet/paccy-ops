@@ -31,9 +31,9 @@ knowledge of software development.<br> I am highly motivated to continue learnin
 
 ### Account Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paccy-ops&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pacifiquet&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paccy-ops&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacifiquet&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
