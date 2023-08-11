@@ -6,7 +6,9 @@
 collaboration and solutions-oriented problem-solving.<br>My experience helped me develop expert
 knowledge of software development.<br> I am highly motivated to continue learning and improving my skills.</h4>
 
-- 📫 How to reach me **pacifiquetwagirayesu@gmail.com**
+How to reach me:
+- 📫 Email **pacifiquetwagirayesu@gmail.com**
+- 📞 Phone number **+63 995 508 7385**
 
 
 ### Tech Stack:
